@@ -1,6 +1,6 @@
 [![FINOS - Incubating](https://cdn.jsdelivr.net/gh/finos/contrib-toolbox@master/images/badge-incubating.svg)](https://community.finos.org/docs/governance/lifecycle-stages/incubating)
 
-# {project name}
+# ccc-managed-k8s
 
 Short blurb about what your project does.
 
@@ -59,7 +59,7 @@ _NOTE:_ Pull requests must follow this repository’s contribution policy. FINOS
 
 ## License
 
-Copyright {yyyy} {name of copyright owner}
+Copyright 2026 FINOS
 
 Distributed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
 
